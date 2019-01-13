@@ -3,198 +3,189 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Erik Kotsiuba
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: eko24ive@gmail.com
+    github: eko24ive
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow: 3472702/eko24ive
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
+        level: Fluent
 
-      - idiom: French
-        level: Professional
+      - idiom: Ukranian
+        level: Mother tongue
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - idiom: Russian
+        level: Mother tongue
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I'm a professional JavaScript Developer with 5+ years of job experience.
+      During this time I have been working with JavaScript (ES6/7), React / Redux, Typescript, Canvas/WebGL, Node.js, MySQL, MongoDB, Ruby and Python.<br/>
+      I’ve developed a lot of back-end applications and services using Node.js, also being involved in projects powered by Ruby on Rails, Python (Flask) and .NET have given to me a solid understanding of client-server and server-server processes along with such role as DBA. So when it comes to back-end related job - I know how to handle it.<br/><br/>
 
-      Second paragraph if required.
+      Expertise highlights:<br/><br/>
+
+      - Able to deal with challenges of any scale for project to make in into production<br/>
+      - Able to deliver projects on time<br/>
+      - Coached and mentored interns and junior developers<br/>
+      - Able to quickly take over new technology to get the job done no mater what<br/>
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Master's degree in Computer Science
+      university: Vinnytsia National Technical University
+      time: 2017 - 2019
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor's  degree in Computer Science
+      university: Vinnytsia National Technical University
+      time: 2013 - 2017
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: 2017 - Present
+      company: OnSeo, Vinnitsa
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I was responsible for implementing mobile-first approach for web applications and integrating backend services via requests and websockets as well.
+        I had to use low-level native Canvas API and WebGL, utilized headless Chrome for unit/integration testing and applying best practices for React-based web development
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: 2014 - 2017
+      company: Delphi LLC, Vinnitsa
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        My responsibilities were implementing and integrating numerous features to deliver given UI design for web applications.
+        I participated in task estimation meetings and aligning progress results with customers as well. What I always tried to achieve and succeeded - delivered performant and testable code for company products.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Concila
+        tagline: "Concila has set our course to confront these challenges using technology and a disruptive business model which will enable patients to stretch their health care dollars when obtaining care and put them back at the center of health care.  Our vision is to lower cost, expand choice, and increase convenience for millions of Americans who are currently unserved, underserved, or badly served."
+        responsibilities:
+          - name: Leveraged latest UI-focused techniques such as responsive design, mobile-first approaches, progressive enhancement and graceful degradation
+          - name: Contributed to the deliver business-critical features and enhancements to new and existing web applications
+          - name: Escalated impediments when appropriate and ensured long term solutions are pursued with pragmatism
+          - name: Developing components and complex business logic using AngularJS
+          - name: Integrating RoR backend
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Extreme Music
+        tagline: "Extreme music is a production music company. The production arm of Sony/ATV Music Publishing, the company creates and licenses music for use in television, film, advertising, and online media. Extreme Music tracks have been licensed by editors, music producers and music supervisors at production companies, networks and advertising agencies, including A+E, Fox, BBC, HBO, the NFL and Apple."
+        responsibilities:
+          - name: Supported team by engaging in product-lead planning and grooming sessions with the goal of ensuring consistent and predictable delivery
+          - name: Built high load windows services for processing file conversion between different formats
+          - name: Built windows service for syncing data between databases using Redis queue
+          - name: Building robust UI using best practices of UX
+          - name: Integrating API for the main and admin sides
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Komposed
+        tagline: "The Komposed platform was built to help music creators / audio professionals save time, get more exposure, and make more money with their music, so they can ultimately give the world more & better music. In the ever-changing music tech environment, we pledge to continually make Komposed the most powerful & useful music management tool in the world for you, the music creators!"
+        responsibilities:
+          - name: Integrating backend services to allow users playback and interact with audio
+          - name: Delivered high quality well tested software that meets agreed requirements
+          - name: Supported and promoteed agile practices including Scrum and Kanban
+          - name: Implementing complex sound-related solutions and features
+          - name: Developing complex UI
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Slot Games
+        tagline: "GVC Holdings PLC (LSE:GVC) is a multinational sports betting and gaming group operating through online and retail channels. Incorporated in the Isle of Man, GVC is a constituent member of the FTSE 100 with its shares traded on the Main Market of the London Stock Exchange."
+        responsibilities:
+          - name: Innovated and advocated the use of latest technologies and technical trends always with a focus on performance, compatibility and security
+          - name: Developing custom internal tools to help speed-up development pipeline and routine
+          - name: Working with Canvas and WebGL API to deliver performant and seamless experience
+          - name: Implementing logic-heavy solutions for localization and internationalization
+          - name: Implementing assets loading and managing using Web Audio API
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Sportsbook
+        tagline: "Gamesys's mission is to be the best gaming operator and games developer in the industry, building and providing games that players love. From a handful of talented designers, developers and operators, to a multi award-winning team of over a thousand, they’ve come a long way since 2002"
+        responsibilities:
+          - name: Running R&D tasks to investigate and choose on performance wise solutions for React-based web client
+          - name: Performing performance audit to detect slowdown issues and fix them in order to increase app feedback
+          - name: Writing unit tests with components snapshotting to achieve full code coverage for the codebase
+          - name: Delivering cross browser and cross platform perfect tailored code
+          - name: Applying efficient practices for React itself and its ecosystem
+          - name: Integrating backend services and websocket integration as well
+          - name: Developing project architecture
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+misc:
+    title: Misc
+    intro: Here is a humble list of stuff I'm proud of and think that you may want to know about it :3
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    items:
+      - tagline: Member of localization WG of NodeJS (ukranian/russian)
+      - tagline: Badass hackathon attender and winner
+      - tagline: Contributor of numerous OSS projects
+      - tagline: Speaker, workshop tutor
+      - tagline: >
+          `Web 101` course teacher
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Vanilla JS, ES 6/7, TypeScript
+        level: 100%
+
+      - name: React, ReactNative, Redux
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: RESTful API, NodeJS, Express.js, koa.js
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: SQLite, MySQL, MongoDB
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: AWS, Heroku, DigitalOcean
+        level: 90%
+
+      - name: GitHub, GitLab, Jira Confluence etc.
+        level: 100%
+
+      - name: Less, Sass, Stylus, PostCSS, Bootstrap, Foundation,
+        level: 100%
+
+      - name: Jade, Handlebars
+        level: 100%
+
+      - name: HTML Canvas and WebGL
+        level: 80%
+
+      - name: Responsive layout, mobile/desktop first
+        level: 90%
+
+      - name: Understanding best practices of UX
+        level: 90%
+
+      - name: Kendo UI
+        level: 75%
+
+      - name: Telegram Bot API
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: OpenCV (Python/C++)
+        level: 30%
 
-      - name: Sketch & Photoshop
+      - name: Python
+        level: 45%
+
+      - name: Ruby (on Rails)
         level: 60%
 
+      - name: Unity, UnrealEngine
+        level: 30%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> | Original repo forked from <a href="https://github.com/sharu725/online-cv">@sharu725</a>

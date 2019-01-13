@@ -4,15 +4,15 @@ layout: default
 
 
 {% include career-profile.html %}
-
+<hr/>
 {% unless site.data.data.sidebar.education %}
   {% include education.html %}
 {% endunless %}
-
 {% include experiences.html %}
-
+<hr/>
 {% include projects.html %}
-
+<hr/>
+{% include misc.html %}
+<hr/>
 {% include publications.html %}
-
 {% include skills.html %}
