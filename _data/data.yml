@@ -20,6 +20,13 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    links:
+      - name: Sourcer Profile
+        url: https://sourcerer.io/eko24ive
+
+      - name: Hackinal Profile
+        url: https://hacknical.com/eko24ive/github?locale=en
+
     languages:
       - idiom: English
         level: Fluent
@@ -33,12 +40,13 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I'm a professional JavaScript Developer with 5+ years of job experience.
-      During this time I have been working with JavaScript (ES6/7), React / Redux, Typescript, Canvas/WebGL, Node.js, MySQL, MongoDB, Ruby and Python.<br/>
-      I’ve developed a lot of back-end applications and services using Node.js, also being involved in projects powered by Ruby on Rails, Python (Flask) and .NET have given to me a solid understanding of client-server and server-server processes along with such role as DBA. So when it comes to back-end related job - I know how to handle it.<br/><br/>
-
-      Expertise highlights:<br/><br/>
-
+      I’m a professional JavaScript Developer with about 10 years of total experience and looking for a job opportunity in a product company, preferably with NodeJS+ReactJS related stack.<br/><br/>
+      During this time I have been working with JavaScript (ES6/7), React / Redux, Angular, Typescript, Canvas/WebGL, Node.js, MySQL, MongoDB, numerous third-party APIs, Ruby and Python and all other cool stuff.<br/><br/>
+      I’ve developed a lot of back-end applications and services using Node.js, also being involved in projects powered by Ruby on Rails, Python (Flask) and .NET have given to me a solid understanding of client-server and server-server processes along with such role as DBA.<br/><br/>
+      Also I had built several projects from scratch, from big enterprise to small startups. Had some quality time mentoring and guiding other deleveopers. Involved in architecture design as well as implementation CI/CD. Involved in building applications for business needs(infrastructure and non-infrastructure), always try to find a solution that will meet business and engineering goals.<br/><br/>
+      As you might notice when it comes to any back-end or front-end related job - I know how to handle it.<br/><br/>
+      Also I might consider job opportunity to transition to Head of Engineering or RnD as at this point I'm somewhat interested in project and resource planning, processes tuning, personal development of engineers and management.<br/><br/><br/>
+      Expertise highlights&#58;
       - Able to deal with challenges of any scale for project to make in into production<br/>
       - Able to deliver projects on time<br/>
       - Coached and mentored interns and junior developers<br/>
@@ -55,70 +63,117 @@ education:
 
 experiences:
     - role: Software Engineer
-      time: 2017 - Present
+      time: 2017 Q3 - Present
       company: OnSeo, Vinnitsa
       details: |
         I was responsible for implementing mobile-first approach for web applications and integrating backend services via requests and websockets as well.
         I had to use low-level native Canvas API and WebGL, utilized headless Chrome for unit/integration testing and applying best practices for React-based web development
 
     - role: Software Engineer
-      time: 2014 - 2017
+      time: 2014 Q2 - 2017 Q3
       company: Delphi LLC, Vinnitsa
       details: |
         My responsibilities were implementing and integrating numerous features to deliver given UI design for web applications.
         I participated in task estimation meetings and aligning progress results with customers as well. What I always tried to achieve and succeeded - delivered performant and testable code for company products.
+
+    - role: Software Engineer
+      time: 2012 Q3 - 2015 Q4
+      company: Freelance Projects
+      details: |
+        I developed and created a lot of frontend and backend application, each of was custom tailored to the needs of customer. I had a wide range of responsibilities, apart from coding itself I went through daily meetings to aling process on a particular project, provide a status report, etc.
 
 projects:
     title: Projects
     intro:
 
     assignments:
+      - title: Sportsbook
+        time: 2.5 year
+        tagline: "Gamesys's mission is to be the best gaming operator and games developer in the industry, building and providing games that players love. From a handful of talented designers, developers and operators, to a multi award-winning team of over a thousand, they’ve come a long way since 2002"
+        technologies: React, NodeJS, Scss, Styled Components, Jest, Redux, Immutable, Reselect, Recompose
+        responsibilities:
+          - name: Runned R&D tasks to investigate and choose on performance wise solutions for React-based web client
+          - name: Performed performance audit to detect slowdown issues and fix them in order to increase app feedback
+          - name: Supplied unit tests with components snapshotting to achieve full code coverage for the codebase
+          - name: Delivered cross browser and cross platform perfect tailored code
+          - name: Applied efficient practices for React itself and its ecosystem
+          - name: Integrated backend services and websocket integration as well
+          - name: Developed project architecture
+
+      - title: Slot Games
+        time: 1 year
+        tagline: "GVC Holdings PLC (LSE:GVC) is a multinational sports betting and gaming group operating through online and retail channels. Incorporated in the Isle of Man, GVC is a constituent member of the FTSE 100 with its shares traded on the Main Market of the London Stock Exchange."
+        technologies: Vanilla JS, NodeJS, Canvas & WebGL API, Jenkins, Scss
+        responsibilities:
+          - name: Innovated and advocated the use of latest technologies and technical trends always with a focus on performance, compatibility and security
+          - name: Developed custom internal tools to help speed-up development pipeline and routine
+          - name: Worked with Canvas and WebGL API to deliver performant and seamless experience
+          - name: Implemented logic-heavy solutions for localization and internationalization
+          - name: Implemented assets loading and managing using Web Audio API
+
+      - title: Komposed
+        time: 6 months
+        tagline: "The Komposed platform was built to help music creators / audio professionals save time, get more exposure, and make more money with their music, so they can ultimately give the world more & better music. In the ever-changing music tech environment, we pledge to continually make Komposed the most powerful & useful music management tool in the world for you, the music creators!"
+        technologies: AngularJS, Razor, Sass, Kendo UI
+        responsibilities:
+          - name: Integrated backend services to allow users playback and interact with audio
+          - name: Delivered high quality well tested software that meets agreed requirements
+          - name: Supported and promoteed agile practices including Scrum and Kanban
+          - name: Implementing complex sound-related solutions and features
+          - name: Developed complex UI
+
+      - title: Extreme Music
+        time: 6 months
+        tagline: "Extreme music is a production music company. The production arm of Sony/ATV Music Publishing, the company creates and licenses music for use in television, film, advertising, and online media. Extreme Music tracks have been licensed by editors, music producers and music supervisors at production companies, networks and advertising agencies, including A+E, Fox, BBC, HBO, the NFL and Apple."
+        technologies: EmberJS, Razor, Sass
+        responsibilities:
+          - name: Supported team by engaging in product-lead planning and grooming sessions with the goal of ensuring consistent and predictable delivery
+          - name: Building robust UI using best practices of UX
+          - name: Integrating API for the main and admin sides
+
       - title: Concila
+        time: 6 months
         tagline: "Concila has set our course to confront these challenges using technology and a disruptive business model which will enable patients to stretch their health care dollars when obtaining care and put them back at the center of health care.  Our vision is to lower cost, expand choice, and increase convenience for millions of Americans who are currently unserved, underserved, or badly served."
+        technologies: AngularJS, Bootsrap, Grunt, Sass
         responsibilities:
           - name: Leveraged latest UI-focused techniques such as responsive design, mobile-first approaches, progressive enhancement and graceful degradation
           - name: Contributed to the deliver business-critical features and enhancements to new and existing web applications
           - name: Escalated impediments when appropriate and ensured long term solutions are pursued with pragmatism
-          - name: Developing components and complex business logic using AngularJS
-          - name: Integrating RoR backend
+          - name: Developed components and complex business logic using AngularJS
+          - name: Integrated RoR backend
 
-      - title: Extreme Music
-        tagline: "Extreme music is a production music company. The production arm of Sony/ATV Music Publishing, the company creates and licenses music for use in television, film, advertising, and online media. Extreme Music tracks have been licensed by editors, music producers and music supervisors at production companies, networks and advertising agencies, including A+E, Fox, BBC, HBO, the NFL and Apple."
+      - title: TimeTable
+        time: 2 years
+        tagline: "TimeTable is a organizer tracker app for students, which allows them to track ongoing and upcoming lectures/sessions of their university in real time."
+        technologies: ReactJS, NodeJS, Bootsrap, Grunt, Sass, WebSocket, MongoDB
         responsibilities:
-          - name: Supported team by engaging in product-lead planning and grooming sessions with the goal of ensuring consistent and predictable delivery
-          - name: Built high load windows services for processing file conversion between different formats
-          - name: Built windows service for syncing data between databases using Redis queue
-          - name: Building robust UI using best practices of UX
-          - name: Integrating API for the main and admin sides
+          - name: On repeated occasions implemented numerous utilities for internal use to improve overall quality-of-life of particular project
+          - name: Developed bulletproof React-based frontent with complex UI components
+          - name: Desinged flexible database structure with easily perfromed migrations based on project needs
+          - name: Implemented performant NodeJS backend to support REST API, and WS protocol as well
+          - name: Developed both user portal to see the information and admin portal to perfrom CRUD operations on projects data
 
-      - title: Komposed
-        tagline: "The Komposed platform was built to help music creators / audio professionals save time, get more exposure, and make more money with their music, so they can ultimately give the world more & better music. In the ever-changing music tech environment, we pledge to continually make Komposed the most powerful & useful music management tool in the world for you, the music creators!"
+      - title: GreenLight
+        time: 1.5 months
+        tagline: "GreenLight is a smart-city solution which allows government to analyze road traffic and come up with advices of speed recomendations"
+        technologies: AngularJS, NodeJS, Canvas & WebGL, Google Maps API, MySQL
         responsibilities:
-          - name: Integrating backend services to allow users playback and interact with audio
-          - name: Delivered high quality well tested software that meets agreed requirements
-          - name: Supported and promoteed agile practices including Scrum and Kanban
-          - name: Implementing complex sound-related solutions and features
-          - name: Developing complex UI
+          - name: Gathered traffic lights data and normalized it to fulfill project needs
+          - name: Developed algorithms to process traffic lights data and analyze them
+          - name: Designed agnostic database structure for storing analyzed data
+          - name: Implemented NodeJS backend to supply processed data to frontend app
+          - name: Created live visualization of gathered and analyzed data using Canvas and WebGL APIs
+          - name: Integrated Google Maps on top of developed visualization
 
-      - title: Slot Games
-        tagline: "GVC Holdings PLC (LSE:GVC) is a multinational sports betting and gaming group operating through online and retail channels. Incorporated in the Isle of Man, GVC is a constituent member of the FTSE 100 with its shares traded on the Main Market of the London Stock Exchange."
+      - title: Gidro
+        time: 1.3 years
+        tagline: "Gidro is a e-government solution which helps browse and find ponds, rivers and reservoirs in a particular region"
+        technologies: VanillaJS, NodeJS, Google Maps API, MySQL
         responsibilities:
-          - name: Innovated and advocated the use of latest technologies and technical trends always with a focus on performance, compatibility and security
-          - name: Developing custom internal tools to help speed-up development pipeline and routine
-          - name: Working with Canvas and WebGL API to deliver performant and seamless experience
-          - name: Implementing logic-heavy solutions for localization and internationalization
-          - name: Implementing assets loading and managing using Web Audio API
-
-      - title: Sportsbook
-        tagline: "Gamesys's mission is to be the best gaming operator and games developer in the industry, building and providing games that players love. From a handful of talented designers, developers and operators, to a multi award-winning team of over a thousand, they’ve come a long way since 2002"
-        responsibilities:
-          - name: Running R&D tasks to investigate and choose on performance wise solutions for React-based web client
-          - name: Performing performance audit to detect slowdown issues and fix them in order to increase app feedback
-          - name: Writing unit tests with components snapshotting to achieve full code coverage for the codebase
-          - name: Delivering cross browser and cross platform perfect tailored code
-          - name: Applying efficient practices for React itself and its ecosystem
-          - name: Integrating backend services and websocket integration as well
-          - name: Developing project architecture
+          - name: Database design to store project-specific data
+          - name: Development of ExpressJS based backend and its integration
+          - name: Created robust frontent client usign "pure" JS
+          - name: Integration of Google Maps API to achieve comfortable data visualization
 
 misc:
     title: Misc
@@ -130,62 +185,38 @@ misc:
       - tagline: Contributor of numerous OSS projects
       - tagline: Speaker, workshop tutor
       - tagline: >
-          `Web 101` course teacher
+          "Web 101" course teacher
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Vanilla JS, ES 6/7, TypeScript
-        level: 100%
+      - name: Development
+        items: Vanilla JS, ES 6/7, TypeScript, NodeJS
 
-      - name: React, ReactNative, Redux
-        level: 98%
+      - name: Frameworks
+        items: React, ReactNative, Redux, Angular, Vue, Kendo UI, Express.js, koa.js, Bootstrap, Foundation, Flask, Rails
 
-      - name: RESTful API, NodeJS, Express.js, koa.js
-        level: 98%
+      - name: Databases
+        items: SQLite, MySQL, MongoDB
 
-      - name: SQLite, MySQL, MongoDB
-        level: 80%
+      - name: Services
+        items: AWS, Heroku, DigitalOcean
 
-      - name: AWS, Heroku, DigitalOcean
-        level: 90%
+      - name: Third-party tools
+        items: GitHub, GitLab, Jira Confluence, Zeplin, VersionOne
 
-      - name: GitHub, GitLab, Jira Confluence etc.
-        level: 100%
+      - name: Style
+        items: Less, Sass, Stylus, PostCSS
 
-      - name: Less, Sass, Stylus, PostCSS, Bootstrap, Foundation,
-        level: 100%
+      - name: Templates
+        items: Jade, Handlebars
 
-      - name: Jade, Handlebars
-        level: 100%
+      - name: Secondary
+        items: Python, Ruby, Unity, UnrealEngine, OpenCV (Python/C++)
 
-      - name: HTML Canvas and WebGL
-        level: 80%
-
-      - name: Responsive layout, mobile/desktop first
-        level: 90%
-
-      - name: Understanding best practices of UX
-        level: 90%
-
-      - name: Kendo UI
-        level: 75%
-
-      - name: Telegram Bot API
-        level: 95%
-
-      - name: OpenCV (Python/C++)
-        level: 30%
-
-      - name: Python
-        level: 45%
-
-      - name: Ruby (on Rails)
-        level: 60%
-
-      - name: Unity, UnrealEngine
-        level: 30%
+      - name: Miscellaneous
+        items: Canvas API, WebGL API, Responsive layout, mobile/desktop first, Understanding best practices of UX, Telegram Bot API
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> | Original repo forked from <a href="https://github.com/sharu725/online-cv">@sharu725</a>

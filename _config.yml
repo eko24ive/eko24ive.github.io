@@ -6,7 +6,7 @@ url: 'https://eko24ive.github.io/'
 baseurl: '/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: 1976d2
+chrome_mobile_color: #1976d2
 
 
 # Tracker

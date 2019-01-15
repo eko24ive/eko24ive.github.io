@@ -176,8 +176,8 @@ p {
         }
     }
     .upper-row {
-        position: relative;
-        overflow: hidden;
+        display: flex;
+        justify-content: space-between;
         margin-bottom: 2px;
     }
     .job-title, .degree {
@@ -188,9 +188,6 @@ p {
         font-weight: 500;
     }
     .time {
-        position: absolute;
-        right: 0;
-        top: 0;
         color: $text-grey;
     }
     .company, .university {
@@ -244,13 +241,12 @@ p {
 
 .skillset {
     .item {
-        margin-bottom: 15px;
         overflow: hidden;
     }
     .level-title {
         font-size: 14px;
         margin-top: 0;
-        margin-bottom: 12px;
+        margin-bottom: 2px;
     }
     .level-bar {
         height: 12px;
@@ -277,4 +273,10 @@ p {
         color: $heart;
     }
 
+}
+
+@media print {
+    .fa-stack, footer {
+        display: none;
+    }
 }

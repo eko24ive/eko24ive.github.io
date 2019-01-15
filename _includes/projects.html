@@ -5,7 +5,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
     </span>
     {{ projects.title }}
   </h2>
@@ -28,19 +28,24 @@
             </a>
           {% endif %}
         </span>
+        <span class="project-time"> | {{ project.time }}</span>
+
 
       {% if project.tagline %}
       <p class="project-tagline">{{ project.tagline }}</p>
       {% endif %}
 
+
       {% if project.responsibilities %}
-      <p>Responsibilities:</p>
+      <p><b>Responsibilities:</b></p>
       <ul>
       {% for responsibility in project.responsibilities %}
         <li>{{ responsibility.name }}</li>
       {% endfor %}
       </ul>
       {% endif %}
+
+      <b>Technologies:</b> {{ project.technologies }}<br/>
 
     <hr/>
     </div><!--//item-->

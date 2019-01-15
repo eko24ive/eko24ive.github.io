@@ -67,5 +67,13 @@
     </li>
     {% endif %}
 
+    {% if sidebar.links %}
+      {% for link in sidebar.links %}
+        <li>
+          <a href="{{link.url}}" target="_blank">{{ link.name }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
+
   </ul>
 </div><!--//contact-container-->
