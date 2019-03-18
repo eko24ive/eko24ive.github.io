@@ -63,7 +63,13 @@ education:
 
 experiences:
     - role: Software Engineer
-      time: 2017 Q3 - Present
+      time: 2019 Q1 - Present
+      company: Brightgrove, Kiev
+      details: |
+        To be done...
+        
+    - role: Software Engineer
+      time: 2017 Q3 - 2019 Q1
       company: OnSeo, Vinnitsa
       details: |
         I was responsible for implementing mobile-first approach for web applications and integrating backend services via requests and websockets as well.
