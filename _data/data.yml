@@ -62,12 +62,12 @@ education:
       time: 2013 - 2017
 
 experiences:
-    - role: Software Engineer
-      time: 2019 Q1 - Present
-      company: Brightgrove, Kiev
-      details: |
-        To be done...
-        
+    # - role: Software Engineer
+    #   time: 2019 Q1 - Present
+    #   company: Brightgrove, Kiev
+    #   details: |
+    #     To be done...
+
     - role: Software Engineer
       time: 2017 Q3 - 2019 Q1
       company: OnSeo, Vinnitsa
