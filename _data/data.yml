@@ -62,11 +62,11 @@ education:
       time: 2013 - 2017
 
 experiences:
-    # - role: Software Engineer
-    #   time: 2019 Q1 - Present
-    #   company: Brightgrove, Kiev
-    #   details: |
-    #     To be done...
+    - role: Fullstack Software Engineer
+      time: 2019 Q1 - Present
+      company: Brightgrove, Kiev
+      details: |
+        Working on the leading German healthcare insurance project. My primary responsabilities were implementing core-level features, such as localization support of the applicaiton. Complex multi-step UI components. Conducting day-to-day tech calls and metting focused at improving perforance of the team and project in general. I also was responsilbe for DevOps tasks, such as integrationg Continious Integration and Deployment pipelines, environment configuration and bootstraping and many more.
 
     - role: Software Engineer
       time: 2017 Q3 - 2019 Q1
@@ -93,6 +93,16 @@ projects:
     intro:
 
     assignments:
+      - title: Actineo Cockpit
+        time: 1 year - Present
+        tagline: ""
+        technologies: React, NodeJS, Scss, Jest, MongoDB, Typescript, GraphQL, AntD
+        responsibilities:
+          - name: Runned R&D tasks to investigate and choose on performance wise solutions for React-based web client
+          - name: Integration wide amount of localization features
+          - name: Introduced CI/CD into the project's development flow
+          - name: Worked on the integration of NodeJS-based backend, which was consumed by ReactJS frontend SPA 
+          
       - title: Sportsbook
         time: 2.5 year
         tagline: "Gamesys's mission is to be the best gaming operator and games developer in the industry, building and providing games that players love. From a handful of talented designers, developers and operators, to a multi award-winning team of over a thousand, they’ve come a long way since 2002"
