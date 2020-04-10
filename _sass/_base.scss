@@ -187,6 +187,17 @@ p {
         margin-bottom: 0;
         font-weight: 500;
     }
+
+    .classified::before {
+        content: "";
+        display: inline-block;
+        color: #aaa !important;
+        background: #aaa !important;
+        border-radius: 3px;
+        width: 100px;
+        height: 20px;
+    }
+
     .time {
         color: $text-grey;
     }
@@ -200,6 +211,11 @@ p {
         font-weight: 600;
         margin-top: 0;
         margin-bottom: 5px;
+
+        .classified::before {
+            position: relative;
+            top: 3px;
+        }
     }
     .project-tagline {
         margin-top: 5px;

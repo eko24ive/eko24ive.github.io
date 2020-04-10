@@ -20,15 +20,19 @@
     <div class="item">
 
       <span class="project-title">
-          {% if project.link %}
-            <a href="{{ project.link }}">
-          {% endif %}
+        {% if project.link %}
+          <a href="{{ project.link }}">
+        {% endif %}
+        {% if forloop.index0 == 0 %}
+          <span class="classified"></span>
+        {% else %}
           {{ project.title }}
-          {% if project.link %}
-            </a>
-          {% endif %}
-        </span>
-        <span class="project-time"> | {{ project.time }}</span>
+        {% endif %}
+        {% if project.link %}
+          </a>
+        {% endif %}
+      </span>
+      <span class="project-time"> | {{ project.time }}</span>
 
 
       {% if project.tagline %}

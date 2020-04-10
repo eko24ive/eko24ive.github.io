@@ -11,16 +11,49 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
+
+   .main-wrapper {
+      padding: 0;
+
+      .time {
+         float: right;
+          color: black !important;
+          -webkit-print-color-adjust: exact;
+     }
+
+     .section:last-child {
+         margin-bottom: 0;
+     }
    }
+
     .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
-        -webkit-print-color-adjust: exact; 
+        position: initial;
+        width: 100%;
+        -webkit-print-color-adjust: exact;
+        min-height: auto;
+
+        .profile-container {
+           text-align: left;
+           padding-left: 0;
+        }
+
+        .sidebar-info {
+           display: flex;
+
+           .container-block {
+              &:first-child {
+                 padding-left: 0;
+              }
+
+              &:last-child {
+                 padding-right: 0;
+              }
+
+              a[href]:after {
+                 display: block;
+              }
+           }
+        }
     }
 
     .remove-container.container-block {
@@ -33,7 +66,7 @@
 
     .skillset .level-bar-inner {
        background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+       -webkit-print-color-adjust: exact;
     }
 
 }
