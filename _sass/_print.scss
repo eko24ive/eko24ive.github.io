@@ -42,18 +42,19 @@
            justify-content: space-between;
 
            .container-block {
-              &:first-child {
-                 padding-left: 0;
-              }
-
-              &:last-child {
-                 padding-right: 0;
-              }
-
               a[href]:after {
                  display: block;
                  font-size: 12px;
               }
+           }
+
+           .contact-container {
+              order: 1;
+              padding-right: 0;
+           }
+
+           .education-container {
+               padding-left: 0;
            }
         }
     }
