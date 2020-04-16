@@ -23,11 +23,7 @@
         {% if project.link %}
           <a href="{{ project.link }}">
         {% endif %}
-        {% if forloop.index0 == 0 %}
-          <span class="classified"></span>
-        {% else %}
           {{ project.title }}
-        {% endif %}
         {% if project.link %}
           </a>
         {% endif %}
