@@ -65,7 +65,7 @@ education:
 
 experiences:
     - role: Fullstack Software Engineer
-      time: 2019 Q1 - Present
+      time: 2019 Q1 - 2020 Q2
       company: Brightgrove, Kiev
       details: |
         Working on the leading German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
@@ -93,8 +93,39 @@ projects:
     intro:
 
     assignments:
+      - title: FireTribes
+        time: 2 months
+        tagline: ""
+        technologies: React, Styled Components, Jest, Auth0
+        responsibilities:
+          - name: Integrated backend services to support authorization and further interaction with the app
+          - name: Ensured that components are following every design requirement
+          - name: Implemented numerous components to provide best experience for managing users
+          - name: Adding unit tests to cover all crucial code
+
+      - title: NosyNeighboor
+        time: 2 months
+        tagline: ""
+        technologies: Vue, Vuex, Scss, Jest, Auth0
+        responsibilities:
+          - name: Integrated backend services to support authorization and further interaction with the app
+          - name: Ensured that components are following every design requirement
+          - name: Added components to provide tools to lookup, reserve, and manage zip codes
+          - name: Added components to provide property value estimatation
+          - name: Adding unit tests to cover all crucial code
+
+      - title: Vibeonix
+        time: 2 months
+        tagline: ""
+        technologies: React, Styled Components, Redux, Jest, Auth0
+        responsibilities:
+          - name: Integrated backend services to support authorization and further interaction with the app
+          - name: Implemented complext UI components to record user voice
+          - name: Ensured that components are following every design requirement
+          - name: Adding unit tests to cover all crucial code
+
       - title: Actineo Cockpit
-        time: 1 year - Present
+        time: 1 year
         tagline: ""
         technologies: React, NodeJS, Scss, Jest, MongoDB, Typescript, GraphQL, AntD
         responsibilities:
