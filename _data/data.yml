@@ -42,10 +42,9 @@ career-profile:
     summary: |
       I’m a professional JavaScript Developer with about 10 years of total experience and looking for a job opportunity in a product company, preferably with NodeJS+ReactJS related stack.<br/><br/>
       During this time I have been working with JavaScript (ES6/7), React / Redux, Angular, Typescript, Canvas/WebGL, Node.js, MySQL, MongoDB, numerous third-party APIs, Ruby and Python, and all other cool stuff.<br/><br/>
-      I’ve developed a lot of back-end applications and services using Node.js, also being involved in projects powered by Ruby on Rails, Python (Flask) and .NET have given to me a solid understanding of client-server and server-server processes along with such role as DBA.<br/><br/>
+      I’ve developed a lot of back-end applications and services using Node.js, also being involved in projects powered by Ruby on Rails, Python (Flask) and .NET have given to me a solid understanding of client-server and server-server processes.<br/><br/>
       Also, I had built several projects from scratch, from big enterprise to small startups. I had some quality time mentoring and guiding other developers. Involved in architecture design as well as implementation CI/CD. Involved in building applications for business needs(infrastructure and non-infrastructure), always try to find a solution that will meet business and engineering goals.<br/><br/>
-      As you might notice when it comes to any back-end or front-end related job - I know how to handle it.<br/><br/>
-      Also, I might consider job opportunity to transition to Head of Engineering or RnD as at this point I’m somewhat interested in project and resource planning, processes tuning, personal development of engineers and management.<br/><br/>
+      When it comes to any back-end or front-end related job - I know the right tools and efficient way to handle it.<br/><br/>
 
       Expertise highlights:&#58;
       - Able to deal with challenges of any scale for a project to make it into production<br/>
@@ -65,10 +64,21 @@ education:
 
 experiences:
     - role: Fullstack Software Engineer
+      time: 2020 Q4 - Present
+      company: Brightgrove, Kiev
+      details: Doing 🪄🔮
+
+    - role: Fullstack Software Engineer
+      time: 2020 Q2 - 2020 Q4
+      company: Brightgrove, Kiev
+      details: |
+        Working on the leading video streaming service PlutoTV. Actively contributed to creating software solutions that meet and set industry standards. Worked alongside some of the best in a collaborative environment while focusing on product and service quality. Autonomously made good technical choices that solve business problems.
+
+    - role: Fullstack Software Engineer
       time: 2019 Q1 - 2020 Q2
       company: Brightgrove, Kiev
       details: |
-        Working on the leading German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
+        Working on the German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
 
     - role: Software Engineer
       time: 2017 Q3 - 2019 Q1
@@ -212,9 +222,9 @@ projects:
           - name: Created live visualization of gathered and analyzed data using Canvas and WebGL APIs
           - name: Integrated Google Maps on top of developed visualization
 
-      - title: Gidro
+      - title: Hydro
         time: 1.3 years
-        tagline: "Gidro is an e-government solution which helps browse and find ponds, rivers, and reservoirs in a particular region"
+        tagline: "Hydro is an e-government solution which helps browse and find ponds, rivers, and reservoirs in a particular region"
         technologies: VanillaJS, NodeJS, Google Maps API, MySQL
         responsibilities:
           - name: Database design to store project-specific data
@@ -227,43 +237,59 @@ misc:
     intro: Here is a humble list of stuff I'm proud of and think that you may want to know about it :3
 
     items:
-      - tagline: Member of localization WG of NodeJS (Ukrainian/Russian)
-      - tagline: Badass hackathon attendee and winner
+      - tagline: Member of localization WG (Working Group) of NodeJS
+      - tagline: Frequent hackathon attendee and winner
       - tagline: Contributor of numerous OSS projects
-      - tagline: Speaker, workshop tutor
-      - tagline: >
-          "Web 101" course teacher
+      - tagline: Conferenct speaker, workshop tutor
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Development
+      - name: Languages and misc.
         items: Vanilla JS, ES 6/7, TypeScript, NodeJS
 
-      - name: Frameworks
-        items: React, ReactNative, Redux, Angular, Vue, Kendo UI, Express.js, koa.js, Bootstrap, Foundation, Flask, Rails
+      - name: Frontend Frameworks
+        items: React, ReactNative, Redux, Angular, Vue, Jquery/Jquery UI
+
+      - name: Backend Frameworks
+        items: Express.js, koa.js, Flask, Rails
 
       - name: Databases
-        items: SQLite, MySQL, MongoDB
+        items: SQLite, MySQL, MongoDB, Redis, ElastiCache
 
-      - name: Services
-        items: AWS, Heroku, DigitalOcean
+      - name: Cloud platforms
+        items: AWS, Heroku, DigitalOcean, Google Cloud Platform, Azure
 
-      - name: Third-party tools
-        items: GitHub, GitLab, Jira Confluence, Zeplin, VersionOne
+      - name: Cloud services
+        items: AWS, Heroku, DigitalOcean, Google Cloud Platform Azure
+
+      - name: Application development
+        items: REST API, SOAP API
+
+      - name: Systems and networking
+        items: Docker, Jenkins, Apache Web Server, IIS, Ubuntu (OS), Windows (OS)
 
       - name: Style
-        items: Less, Sass, Stylus, PostCSS
+        items: StyledComponents, Less, Sass, Stylus, PostCSS
+
+      - name: Style Frameworks
+        items: Kendo UI, Bootstrap, Foundation, MaterialUI
 
       - name: Templates
-        items: Jade, Handlebars
+        items: Pug, Jade, Handlebars
 
       - name: Secondary
-        items: Python, Ruby, Unity, UnrealEngine, OpenCV (Python/C++)
+        items: PHP, .NET (C#), Python, Ruby, Unity, UnrealEngine, OpenCV (Python/C++)
+
+      - name: Third-party services
+        items: GitHub, GitLab, Bitbucket, Jira, Trello
+
+      - name: Deisng collaboration tools
+        items: Zeplin, VersionOne, InVision, Figma
 
       - name: Miscellaneous
-        items: Canvas API, WebGL API, Responsive layout, mobile/desktop first, Understanding best practices of UX, Telegram Bot API
+        items: GIT, TortoiseSVN, AWS CLI, Canvas API, WebGL API, Responsive layout, mobile/desktop first CSS, Understanding best practices of UX, Telegram Bot API
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> | Original repo forked from <a href="https://github.com/sharu725/online-cv">@sharu725</a>
