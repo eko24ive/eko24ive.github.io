@@ -64,7 +64,8 @@ education:
 
 experiences:
     - role: Fullstack Software Engineer
-      time: 2020 Q4 - Present
+      company: Brightgrove, Kiev
+      time: 2020 Q4 - 2022 Q4
       company: 
       details: Providing next-generation customer experience solutions to help uncover value by better addressing the new needs of customers. Deisgning AI/ML powered deliverd as a SAAS solutions, ready to be integrated on any frontend. Creating tailored experiences to assist onboarding for new customers. Implementing robust backend with thoughfull microservices-oriented architechture, which is later conusmed by feature-rich frontend.
 
