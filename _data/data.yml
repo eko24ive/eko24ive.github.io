@@ -34,19 +34,17 @@ sidebar:
       - idiom: Ukranian
         level: Mother tongue
 
-      - idiom: Russian
-        level: Mother tongue
-
 career-profile:
     title: Profile
     summary: |
-      I’m a professional JavaScript Developer with about 10 years of total experience and looking for a job opportunity in a product company, preferably with a NodeJS+ReactJS related stack.<br/><br/>
-      During this time I have been working with JavaScript (ES6/7), React / Redux, Angular, Typescript, Canvas/WebGL, Node.js, MySQL, MongoDB, numerous third-party APIs, Ruby and Python, and all other cool stuff.<br/><br/>
-      I’ve developed a lot of back-end applications and services using Node.js, also being involved in projects powered by Ruby on Rails, Python (Flask), and .NET has given me a solid understanding of client-server and server-server processes.<br/><br/>
-      Also, I have built several projects from scratch, from big enterprises to small startups. I had some quality time mentoring and guiding other developers. Involved in architecture design as well as implementation of CI/CD. Involved in building applications for business needs(infrastructure and non-infrastructure), always trying to find a solution that will meet business and engineering goals.<br/><br/>
-      When it comes to any back-end or front-end related job - I know the right tools and efficient way to handle it.<br/><br/>
+      I am an experienced JavaScript Developer with a decade of professional expertise, actively seeking a rewarding opportunity within a product-focused company. My preferred tech stack involves Node.js and ReactJS, reflecting my passion for creating robust and innovative applications.<br/><br/>
+      Over the course of my career, I have honed my skills in JavaScript (ES6/7), React/Redux, Angular, Typescript, Canvas/WebGL, Node.js, MySQL, MongoDB, and integration with various third-party APIs. My versatility extends to languages such as Ruby and Python, allowing me to work seamlessly across diverse tech ecosystems.<br/><br/>
+      My hands-on experience encompasses the development of both front-end and back-end applications. I have a solid foundation in Node.js, and I've contributed to projects powered by Ruby on Rails, Python (Flask), and .NET, gaining a comprehensive understanding of client-server and server-server processes.<br/><br/>
+      I take pride in my role as a project initiator, having successfully built projects from the ground up for a spectrum of clients, ranging from large enterprises to nimble startups. In addition to my technical contributions, I've dedicated quality time to mentoring and guiding fellow developers, fostering a collaborative and knowledge-sharing environment.<br/><br/>
+      My involvement in architecture design and implementation of CI/CD pipelines underscores my commitment to delivering not just functional but scalable and maintainable solutions. Whether addressing infrastructure or non-infrastructure needs, I approach challenges with a focus on aligning technological solutions with overarching business and engineering objectives.<br/><br/>
+      In any back-end or front-end role, I bring a wealth of experience and a deep understanding of the right tools and methodologies, ensuring efficient and effective project execution. I am enthusiastic about contributing my skills and experience to a dynamic product company that values innovation and fosters a collaborative work culture.<br/><br/>
 
-      Expertise highlights:&#58;
+      Expertise highlights:
       - Able to deal with challenges of any scale for a project to make it into production<br/>
       - Able to deliver projects on time<br/>
       - Coached and mentored interns and junior developers<br/>
@@ -63,6 +61,11 @@ education:
       time: 2013 - 2017
 
 experiences:
+    - role: Fullstack Software Engineer
+      time: 2023 Q2 - Present
+      company: Viseven, Kyiv
+      details: As a Software Engineer at Biogen, I played a pivotal role in enhancing data privacy and compliance measures through the implementation of robust integrations utilizing the OneTrust platform. My primary responsibilities revolved around managing and storing customer consent efficiently. Leveraged a range of AWS services, including AWS Lambda, EventBridge, StepFunctions, SNS, SQS, and SecretManager, to architect and deploy scalable and reliable solutions.
+
     - role: Fullstack Software Engineer
       time: 2023 Q1 - 2023 Q2
       company: Playson, Kyiv
@@ -252,7 +255,7 @@ skills:
 
     toolset:
       - name: Languages and misc.
-        items: Vanilla JS, ES 6/7, TypeScript, NodeJS
+        items: ES 6/7, TypeScript, NodeJS
 
       - name: Frontend Frameworks
         items: React, ReactNative, Redux, Angular, Vue, Jquery/Jquery UI
@@ -266,8 +269,11 @@ skills:
       - name: Cloud platforms
         items: AWS, Google Cloud Platform, Azure, Heroku, DigitalOcean
 
-      - name: Application development
-        items: REST API, SOAP API
+      - name: IaC
+        items: AWS SAM, Serverless Framework, Terraform
+
+      - name: Application APIs
+        items: GraphQL, REST API, SOAP API
 
       - name: Systems and networking
         items: Docker, Jenkins, Apache Web Server, IIS, Ubuntu (OS), Windows (OS)
@@ -276,7 +282,7 @@ skills:
         items: StyledComponents, Less, Sass, Stylus, PostCSS
 
       - name: Style Frameworks
-        items: Kendo UI, Bootstrap, Foundation, MaterialUI
+        items: TailwindCSS, Kendo UI, Bootstrap, Foundation, MaterialUI
 
       - name: Templates
         items: Pug, Jade, Handlebars
@@ -288,7 +294,7 @@ skills:
         items: GitHub, GitLab, Bitbucket, Jira, Trello
 
       - name: Deisng collaboration tools
-        items: Zeplin, VersionOne, InVision, Figma
+        items: Figma, Zeplin, VersionOne, InVision
 
       - name: Miscellaneous
         items: GIT, TortoiseSVN, AWS CLI, Canvas API, WebGL API, Responsive layout, mobile/desktop first CSS, Understanding best practices of UX, Telegram Bot API
