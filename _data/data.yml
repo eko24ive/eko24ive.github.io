@@ -60,21 +60,21 @@ experiences:
       details: As a Software Engineer at Biogen, I played a pivotal role in enhancing data privacy and compliance measures through the implementation of robust integrations utilizing the OneTrust platform. My primary responsibilities revolved around managing and storing customer consent efficiently. Leveraged a range of AWS services, including AWS Lambda, EventBridge, StepFunctions, SNS, SQS, and SecretManager, to architect and deploy scalable and reliable solutions.
 
     - role: Fullstack Software Engineer
-        time: 2020 Q4 - 2022 Q4
-        company: Brightgrove, Kyiv
-        details: Providing next-generation customer experience solutions to help uncover value by better addressing the new needs of customers. Designing AI/ML powered solutions which were delivered as a SAAS, ready to be integrated on any frontend. Creating tailored experiences to assist onboarding for new customers. Implementing robust backend with thoughtful microservices-oriented architecture, which is later consumed by feature-rich frontend.
+      time: 2020 Q4 - 2022 Q4
+      company: Brightgrove, Kyiv
+      details: Providing next-generation customer experience solutions to help uncover value by better addressing the new needs of customers. Designing AI/ML powered solutions which were delivered as a SAAS, ready to be integrated on any frontend. Creating tailored experiences to assist onboarding for new customers. Implementing robust backend with thoughtful microservices-oriented architecture, which is later consumed by feature-rich frontend.
 
-      - role: Fullstack Software Engineer
-        time: 2020 Q2 - 2020 Q4
-        company: Brightgrove, Kyiv
-        details: |
-          Working on the leading video streaming service PlutoTV. Actively contributed to creating software solutions that meet and set industry standards. Worked alongside some of the best in a collaborative environment while focusing on product and service quality. Autonomously made good technical choices that solve business problems.
+    - role: Fullstack Software Engineer
+      time: 2020 Q2 - 2020 Q4
+      company: Brightgrove, Kyiv
+      details: |
+        Working on the leading video streaming service PlutoTV. Actively contributed to creating software solutions that meet and set industry standards. Worked alongside some of the best in a collaborative environment while focusing on product and service quality. Autonomously made good technical choices that solve business problems.
 
-      - role: Fullstack Software Engineer
-        time: 2019 Q1 - 2020 Q2
-        company: Brightgrove, Kyiv
-        details: |
-          Working on the German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
+    - role: Fullstack Software Engineer
+      time: 2019 Q1 - 2020 Q2
+      company: Brightgrove, Kyiv
+      details: |
+        Working on the German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
 
     - role: Software Engineer
       time: 2017 Q3 - 2019 Q1
