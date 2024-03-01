@@ -20,13 +20,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    links:
-      - name: Sourcer Profile
-        url: https://sourcerer.io/eko24ive
-
-      - name: Hackinal Profile
-        url: https://hacknical.com/eko24ive/github?locale=en
-
     languages:
       - idiom: English
         level: Fluent
@@ -62,31 +55,26 @@ education:
 
 experiences:
     - role: Fullstack Software Engineer
-      time: 2023 Q2 - Present
+      time: 2023 Q1 - Present
       company: Viseven, Kyiv
       details: As a Software Engineer at Biogen, I played a pivotal role in enhancing data privacy and compliance measures through the implementation of robust integrations utilizing the OneTrust platform. My primary responsibilities revolved around managing and storing customer consent efficiently. Leveraged a range of AWS services, including AWS Lambda, EventBridge, StepFunctions, SNS, SQS, and SecretManager, to architect and deploy scalable and reliable solutions.
 
     - role: Fullstack Software Engineer
-      time: 2023 Q1 - 2023 Q2
-      company: Playson, Kyiv
-      details: Leading the development and management of a robust analytics platform designed to empower the company with invaluable insights into our product performance. In this role, I played a pivotal part in crafting a sophisticated system that collects, processes, and visualizes data, enabling data-driven decision-making. This platform has served as a critical resource for our organization and its clients, aiding in identifying trends, assessing the success of various products, and supporting strategic planning initiatives. The results have been tangible, with the platform contributing significantly to informed, data-backed decisions and the continued growth of our company's products
+        time: 2020 Q4 - 2022 Q4
+        company: Brightgrove, Kyiv
+        details: Providing next-generation customer experience solutions to help uncover value by better addressing the new needs of customers. Designing AI/ML powered solutions which were delivered as a SAAS, ready to be integrated on any frontend. Creating tailored experiences to assist onboarding for new customers. Implementing robust backend with thoughtful microservices-oriented architecture, which is later consumed by feature-rich frontend.
 
-    - role: Fullstack Software Engineer
-      time: 2020 Q4 - 2022 Q4
-      company: Brightgrove, Kyiv
-      details: Providing next-generation customer experience solutions to help uncover value by better addressing the new needs of customers. Designing AI/ML powered solutions which were delivered as a SAAS, ready to be integrated on any frontend. Creating tailored experiences to assist onboarding for new customers. Implementing robust backend with thoughtful microservices-oriented architecture, which is later consumed by feature-rich frontend.
+      - role: Fullstack Software Engineer
+        time: 2020 Q2 - 2020 Q4
+        company: Brightgrove, Kyiv
+        details: |
+          Working on the leading video streaming service PlutoTV. Actively contributed to creating software solutions that meet and set industry standards. Worked alongside some of the best in a collaborative environment while focusing on product and service quality. Autonomously made good technical choices that solve business problems.
 
-    - role: Fullstack Software Engineer
-      time: 2020 Q2 - 2020 Q4
-      company: Brightgrove, Kyiv
-      details: |
-        Working on the leading video streaming service PlutoTV. Actively contributed to creating software solutions that meet and set industry standards. Worked alongside some of the best in a collaborative environment while focusing on product and service quality. Autonomously made good technical choices that solve business problems.
-
-    - role: Fullstack Software Engineer
-      time: 2019 Q1 - 2020 Q2
-      company: Brightgrove, Kyiv
-      details: |
-        Working on the German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
+      - role: Fullstack Software Engineer
+        time: 2019 Q1 - 2020 Q2
+        company: Brightgrove, Kyiv
+        details: |
+          Working on the German healthcare insurance project. My primary responsibilities were implementing core-level features, such as localization support of the application. Complex multi-step UI components. Conducting day-to-day tech calls and meetings focused on improving the performance of the team and project in general. I also was responsible for DevOps tasks, such as integrating Continuous Integration and Deployment pipelines, environment configuration and bootstrapping and many more.
 
     - role: Software Engineer
       time: 2017 Q3 - 2019 Q1
@@ -101,7 +89,7 @@ experiences:
         My responsibilities were implementing and integrating numerous features to deliver a given UI design for web applications. I participated in task estimation meetings and aligned progress results with customers as well. What I always tried to achieve and succeed - delivering performant and testable code for company products.
 
     - role: Software Engineer
-      time: 2012 Q3 - 2015 Q4
+      time: 2012 Q3 - 2014 Q1
       company: Freelance Projects
       details: |
         I developed and created a lot of frontend and backend applications, every single one of them custom-tailored to the needs of the customer. I had a wide range of responsibilities, apart from coding itself I went through daily meetings to align processes on a particular project, provide a status report, etc.
@@ -239,16 +227,6 @@ projects:
           - name: Development of ExpressJS-based backend and its integration
           - name: Created a robust frontend client using "pure" JS
           - name: Integration of Google Maps API to achieve comfortable data visualization
-
-misc:
-    title: Misc
-    intro: Here is a humble list of stuff I'm proud of and think that you may want to know about :3
-
-    items:
-      - tagline: Member of localization WG (Working Group) of NodeJS
-      - tagline: Frequent hackathon attendee and winner
-      - tagline: Contributor of numerous OSS projects
-      - tagline: Conference speaker, workshop tutor
 
 skills:
     title: Skills &amp; Proficiency
