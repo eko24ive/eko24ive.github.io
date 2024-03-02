@@ -88,7 +88,7 @@ projects:
       - title: FireTribes
         time: 2 months
         tagline: ""
-        technologies: React, Styled Components, Jest, Auth0
+        technologies: React, React Native, Styled Components, Jest, Auth0
         responsibilities:
           - name: Integrated backend services to support authorization and further interaction with the app
           - name: Ensured that components are following every design requirement
@@ -109,7 +109,7 @@ projects:
       - title: Vibeonix
         time: 2 months
         tagline: ""
-        technologies: React, Styled Components, Redux, Jest, Auth0
+        technologies: React, React Native, Styled Components, Redux, Jest, Auth0
         responsibilities:
           - name: Integrated backend services to support authorization and further interaction with the app
           - name: Implemented complex UI components to record user's voice
@@ -184,7 +184,7 @@ projects:
       - title: TimeTable
         time: 2 years
         tagline: "TimeTable is an organizer tracker app for students, which allows them to track ongoing and upcoming lectures/sessions of their university in real-time."
-        technologies: ReactJS, NodeJS, Bootstrap, Grunt, Sass, WebSocket, MongoDB
+        technologies: ReactJS, React Native, NodeJS, Bootstrap, Grunt, Sass, WebSocket, MongoDB
         responsibilities:
           - name: On repeated occasions implemented numerous utilities for internal use to improve the overall quality-of-life of the project
           - name: Developed bulletproof React-based frontend with complex UI components
