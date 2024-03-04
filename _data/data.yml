@@ -24,7 +24,7 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Ukranian
+      - idiom: Ukrainian
         level: Mother tongue
 
 career-profile:
@@ -257,7 +257,7 @@ skills:
       - name: Third-party services
         items: GitHub, GitLab, Bitbucket, Jira, Trello
 
-      - name: Deisng collaboration tools
+      - name: Design collaboration tools
         items: Figma, Zeplin, VersionOne, InVision
 
       - name: Miscellaneous
